@@ -27,5 +27,6 @@
   padding:10px 0px;
 }
 #info #levelname p{
-  font-family: 'Rubik Mono One';font-size: 22px; 
+  font-family: 'Rubik Mono One';font-size: 22px;
+  position:fixed;
 }
