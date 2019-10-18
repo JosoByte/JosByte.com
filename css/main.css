@@ -18,11 +18,14 @@
   font-weight: bold;
 }
 #navbar a{
-    color: #FFF;
-    text-decoration: none;
-    hover: #ff145f;
+  color: #FFF;
+  text-decoration: none;
+  hover: #ff145f;
 }
 #navbar a:hover{
-    background-color: #ff145f;
-    padding:10px 0px;
+  background-color: #ff145f;
+  padding:10px 0px;
+}
+#info #levelname p{
+  font-family: 'Rubik Mono One';font-size: 22px; 
 }
