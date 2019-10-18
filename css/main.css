@@ -1,13 +1,10 @@
 #navbar {
-  position: fixed;
-  width: 105%;
-  text-align: left;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
   background-color: #222;
-  padding:10px;
-  margin-bottom:-20px;
-  left: 50%;
-  transform: translateX(-48%);
-  right: 0;
+  padding: 10px;
 }
 
 #navbar ul{
@@ -60,9 +57,13 @@
 }
 #socialbar li{
   display: inline;
+  padding:10px;
 }
 #socialbar{
-  margin-left:43.5%;
+  margin: auto;
+  max-width: 700px;
+  width: 700px;
+  text-align: center;
 }
 #socialbar img{
   max-width:50px;
@@ -71,6 +72,3 @@ body{
   background-color: #000010;
   
 } 
-
-
-
