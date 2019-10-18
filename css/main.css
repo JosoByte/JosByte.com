@@ -34,10 +34,11 @@
 }
 #info p{
   font-family: 'Rubik Mono One';font-size: 22px;
-  text-align:center;
+  text-align: center;
+  color: white;
 }
 #info img{
-  position:center; 
+  position: center; 
 }
 body{
   background-color: #000010;
