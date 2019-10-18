@@ -2,27 +2,28 @@
   position: fixed;
   width: 99%;
   text-align: center;
-  background-color: #444;
+  background-color: #222;
   margin-bottom: 150px;
+  padding:10px;
 }
 
 #navbar ul{
   list-style-type:0;
   text-decoration: none;
   position:fixed;
-  padding-top:25px;
-  padding-bottom:25px;
 }
 #navbar li{
   display: inline;
   color: #000;
+  padding:15px;
+  font-weight: bold;
 }
 #navbar a{
     color: #FFF;
     text-decoration: none;
     hover: #ff145f;
 }
-#navbar li a:hover{
+#navbar a:hover{
     background-color: #ff145f;
+    padding:10px 0px;
 }
-
