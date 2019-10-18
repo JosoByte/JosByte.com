@@ -22,3 +22,7 @@
     text-decoration: none;
     hover: #ff145f;
 }
+#navbar li a:hover{
+    background-color: #ff145f;
+}
+
