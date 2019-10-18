@@ -4,13 +4,15 @@
   text-align: center;
   background-color: #222;
   padding:10px;
+  left: 50%;
+  transform: translateX(-50%);
+  right: 0;
 }
 
 #navbar ul{
   list-style-type:0;
   text-decoration: none;
   position:fixed;
-  marging-left:50px;
 }
 #navbar li{
   display: inline;
