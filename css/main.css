@@ -2,12 +2,12 @@
   position: fixed;
   width: 100%;
   text-align: center;
+  background-color: #FFF;
 }
 
 #navbar ul{
   list-style-type:0;
   position:fixed;
-  background-color: #FFF;
 }
 #navbar li{
   display: inline;
