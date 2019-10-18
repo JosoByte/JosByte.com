@@ -14,3 +14,7 @@
   display: inline;
   color: #000;
 }
+#navbar a{
+    color: #FFF;
+    text-decoration: none;
+}
