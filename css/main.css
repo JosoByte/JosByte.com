@@ -29,10 +29,15 @@
   text-decoration: none;
   hover: #ff145f;
 }
+
 #navbar a:hover{
   background-color: #ff145f;
   padding:10px 0px;
 }
+#info img:hover{
+  border-width: 5px; 
+}
+
 #info p{
   font-family: 'Rubik Mono One';font-size: 22px;
   text-align: center;
