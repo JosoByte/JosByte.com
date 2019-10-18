@@ -36,6 +36,9 @@
   font-family: 'Rubik Mono One';font-size: 22px;
   text-align:center;
 }
+#info img{
+  position:center; 
+}
 body{
   background-color: #100010;
 } 
