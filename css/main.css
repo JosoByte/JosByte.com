@@ -2,7 +2,8 @@
   position: fixed;
   width: 100%;
   text-align: center;
-  background-color: #111;
+  background-color: #444;
+  margin-bottom:50px;
 }
 
 #navbar ul{
