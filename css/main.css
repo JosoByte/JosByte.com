@@ -7,7 +7,10 @@
 #navbar ul{
   list-style-type:0;
   position:fixed;
+  background-color: #FFF;
 }
 #navbar li{
   display: inline;
+  text-decoration: none;
+  color: #000;
 }
