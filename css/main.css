@@ -1,24 +1,27 @@
 #navbar {
   position: fixed;
-  width: 97%;
+  width: 105%;
   text-align: center;
   background-color: #222;
   padding:10px;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-52%);
   right: 0;
 }
 
 #navbar ul{
+  
   list-style-type:0;
   text-decoration: none;
   position:fixed;
+  
 }
 #navbar li{
   display: inline;
   color: #000;
   padding:15px;
   font-weight: bold;
+  
 }
 #navbar a{
   color: #FFF;
