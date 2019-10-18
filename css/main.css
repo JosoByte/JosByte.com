@@ -35,7 +35,9 @@
   padding:10px 0px;
 }
 #info img:hover{
-  border-width: 5px; 
+  outline:5px solid #ff145f;
+  transition-property: width;
+  transition-duration: 1s;
 }
 
 #info p{
@@ -51,7 +53,8 @@
   margin-left: auto;
   margin-right: auto;
   border-color: #ff145f;
-  border-style: solid;
+  outline:3px solid #ff145f;
+
 }
 body{
   background-color: #000010;
