@@ -60,17 +60,16 @@
   display: inline;
 }
 #socialbar{
-  right: 50%;
-  transform: translateX(43.5%);
-  right: 0;
+  padding-left:43.5%;
 }
 #socialbar img{
-  max-width:4%;
+  max-width:50px;
 }
 
 body{
   background-color: #000010;
   
 } 
+
 
 
