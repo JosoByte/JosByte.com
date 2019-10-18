@@ -2,6 +2,7 @@
   list-style-type:0;
   marging:0;
   padding:0;
+  position:fixed;
 }
 #navbar li{
   display: inline;
