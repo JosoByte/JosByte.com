@@ -2,15 +2,15 @@
   position: fixed;
   width: 100%;
   text-align: center;
-  background-color: #FFF;
+  background-color: #111;
 }
 
 #navbar ul{
   list-style-type:0;
+  text-decoration: none;
   position:fixed;
 }
 #navbar li{
   display: inline;
-  text-decoration: none;
   color: #000;
 }
