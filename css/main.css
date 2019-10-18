@@ -26,7 +26,7 @@
   background-color: #ff145f;
   padding:10px 0px;
 }
-.info #levelname p{
+#levelname p{
   font-family: 'Rubik Mono One';font-size: 22px;
   position:fixed;
 }
