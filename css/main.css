@@ -60,7 +60,7 @@
   display: inline;
 }
 #socialbar{
-  padding-left:43.5%;
+  margin-left:43.5%;
 }
 #socialbar img{
   max-width:50px;
