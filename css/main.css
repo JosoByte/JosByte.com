@@ -1,7 +1,12 @@
+#navbar {
+  position: fixed;
+  width: 100%;
+  text-align: center;
+}
+
 #navbar ul{
   list-style-type:0;
   position:fixed;
-  left: 50%;
 }
 #navbar li{
   display: inline;
