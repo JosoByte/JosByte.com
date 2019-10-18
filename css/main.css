@@ -56,7 +56,17 @@
   outline:3px solid #ff145f;
 
 }
+#socialbar li{
+  right: 50%;
+  transform: translateX(47.4%);
+  right: 0;
+}
+#socialbar img{
+  max-width:4%;
+}
+
 body{
   background-color: #000010;
   
 } 
+
