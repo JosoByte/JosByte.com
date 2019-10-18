@@ -3,6 +3,7 @@
   marging:0;
   padding:0;
   position:fixed;
+  left: 50%;
 }
 #navbar li{
   display: inline;
